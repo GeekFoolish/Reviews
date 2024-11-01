@@ -3,7 +3,7 @@ title: "Concord: The Geek Foolish Review (PS5, 2024)"
 author: Russell Bradley
 platform: PS5
 release_year: 2024
-date: 2024-09-04
+review_date: 2024-09-04
 ---
 
 ## Concord: The Geek Foolish Review (PS5, 2024)
